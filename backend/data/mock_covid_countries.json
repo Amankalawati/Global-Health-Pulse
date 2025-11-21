@@ -1,0 +1,33 @@
+[
+  {
+    "country": "India",
+    "confirmed": 46000000,
+    "deaths": 530000,
+    "active": 120000,
+    "recovered": 45300000
+  },
+  {
+    "country": "United States",
+    "confirmed": 105000000,
+    "deaths": 1100000,
+    "active": 250000,
+    "recovered": 103000000
+  },
+  {
+    "country": "Brazil",
+    "confirmed": 37000000,
+    "deaths": 950000,
+    "active": 80000,
+    "recovered": 36000000
+  },
+  {
+    "country": "Country A",
+    "cases": 100000,
+    "deaths": 2000
+  },
+  {
+    "country": "Country B",
+    "cases": 50000,
+    "deaths": 700
+  }
+]
